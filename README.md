@@ -1,4 +1,4 @@
-# \Team Lets Practice\
+# Team Lets Practice
 
 **Group members:**
 - HZL545 / Carl Elbæk-Jørgensen Weise
