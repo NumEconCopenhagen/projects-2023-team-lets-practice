@@ -1,9 +1,9 @@
 # Team Lets Practice
 
 **Group members:**
-- HZL545 / Carl Elbæk-Jørgensen Weise
-- B
-- C
+- hzl545 / Carl Elbæk-Jørgensen Weise
+- vrs722 / Gull-Maj Sand Christensen
+- bsp160 / Sofie Lodberg Andersen
 
 This repository contains  
 1. Inaugural project. 
